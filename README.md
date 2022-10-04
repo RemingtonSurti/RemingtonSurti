@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋 I,m Remington Surti
+## Hi there 👋 I'm Remington Surti
 
 ### 🙋‍♂️ About Me
 
