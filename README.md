@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 </p>
 
-
+<!--
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Chandan220698">
