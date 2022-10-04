@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="left"> 
      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/50/000000/flask.png" width="60" height="60"/></a>
-    <a href="https://powerbi.microsoft.com" target="_blank"> <img src="https://cdn.windowsreport.com/wp-content/uploads/2019/08/Can-I-use-Power-Bi-for-Free.jpg"/> </a>
+    <a href="https://powerbi.microsoft.com" target="_blank"> <img src="https://cdn.windowsreport.com/wp-content/uploads/2019/08/Can-I-use-Power-Bi-for-Free.jpg"/> alt="Power BI" width="48" height="48"/></a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://cassandra.apache.org/_/index.html" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/cassandra-282570.png" alt="Cassandradb" width="48" height="48"/> </a>
