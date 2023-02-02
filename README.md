@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **surti.remington@gmail.com**
 
-## 🙋‍ Connect with me:
+## 🙋‍♂️ Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/remington-surti-a33a481ab/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
