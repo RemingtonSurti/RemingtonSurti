@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙋‍♂️, I'm Remington Surti</h1>
+<h1 align="center">Hi 👋, I'm Remington Surti</h1>
 <h3 align="center">A passionate Data Analyst and software developer from Ireland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remingtonsurti&label=Profile%20views&color=0e75b6&style=flat" alt="remingtonsurti" /> </p>
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **surti.remington@gmail.com**
 
-## Connect with me:
+## 🙋‍ Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/remington-surti-a33a481ab/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
