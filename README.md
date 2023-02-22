@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Kubernetes, docker and Heroku**
 
-- 👯 I’m looking to collaborate on **Data Engineering Projects**
+- 👯 I’m looking to collaborate on **Data Visualization Projects** 
 
-- 🤝 I’m looking for help with **Data Visualization Projects**
+- 🤝 I’m looking for help with **Data Engineering Projects**
 
 - 👨‍💻 All of my projects are available at [My Porfolio Projects](https://github.com/RemingtonSurti?tab=repositories)
 
